@@ -9,6 +9,4 @@ public class UserInfoDto extends UserInfo {
     private String firstName;
     private String lastName;
     private String username;
-    private String phoneNumber;
-    private String email;
 }
